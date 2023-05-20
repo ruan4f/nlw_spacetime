@@ -1,0 +1,5 @@
+Initialize prisma
+npx prisma init --datasource-provider SQLite
+
+Execute a migration
+npx prisma migrate dev
